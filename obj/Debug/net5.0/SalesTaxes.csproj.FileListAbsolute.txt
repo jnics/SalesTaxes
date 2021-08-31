@@ -1,0 +1,16 @@
+C:\Users\jnichols\source\repos\SalesTaxes\bin\Debug\net5.0\SalesTaxes.exe
+C:\Users\jnichols\source\repos\SalesTaxes\bin\Debug\net5.0\SalesTaxes.deps.json
+C:\Users\jnichols\source\repos\SalesTaxes\bin\Debug\net5.0\SalesTaxes.runtimeconfig.json
+C:\Users\jnichols\source\repos\SalesTaxes\bin\Debug\net5.0\SalesTaxes.runtimeconfig.dev.json
+C:\Users\jnichols\source\repos\SalesTaxes\bin\Debug\net5.0\SalesTaxes.dll
+C:\Users\jnichols\source\repos\SalesTaxes\bin\Debug\net5.0\ref\SalesTaxes.dll
+C:\Users\jnichols\source\repos\SalesTaxes\bin\Debug\net5.0\SalesTaxes.pdb
+C:\Users\jnichols\source\repos\SalesTaxes\obj\Debug\net5.0\SalesTaxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnichols\source\repos\SalesTaxes\obj\Debug\net5.0\SalesTaxes.AssemblyInfoInputs.cache
+C:\Users\jnichols\source\repos\SalesTaxes\obj\Debug\net5.0\SalesTaxes.AssemblyInfo.cs
+C:\Users\jnichols\source\repos\SalesTaxes\obj\Debug\net5.0\SalesTaxes.csproj.CoreCompileInputs.cache
+C:\Users\jnichols\source\repos\SalesTaxes\obj\Debug\net5.0\SalesTaxes.dll
+C:\Users\jnichols\source\repos\SalesTaxes\obj\Debug\net5.0\ref\SalesTaxes.dll
+C:\Users\jnichols\source\repos\SalesTaxes\obj\Debug\net5.0\SalesTaxes.pdb
+C:\Users\jnichols\source\repos\SalesTaxes\obj\Debug\net5.0\SalesTaxes.genruntimeconfig.cache
+C:\Users\jnichols\source\repos\SalesTaxes\obj\Debug\net5.0\SalesTaxes.csprojAssemblyReference.cache
